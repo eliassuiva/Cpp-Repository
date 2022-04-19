@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Mr. Robot\OneDrive\C++\01 - Introducción a problemas de Competitiva Select CMakeLists.txt
